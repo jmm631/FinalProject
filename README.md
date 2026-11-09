@@ -63,9 +63,18 @@ OMDb API: https://www.omdbapi.com/
 
 7. Open the local URL displayed in your terminal.
 
+
+
 ## Team Contributions
 
-Add the names of your team members and their respective contributions here.
+**[MONTOYA, JELAH MARIE E.]**
+- React application development
+- OMDb API integration
+- Implementation of application features
+
+**[ANDAPAT, KEITH]**
+- Project partner
+- Contributions to be updated upon participation
 
 ## Project Information
 
