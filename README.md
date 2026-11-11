@@ -81,3 +81,20 @@ OMDb API: https://www.omdbapi.com/
 **Project Title:** CineScope - Movie Explorer
 
 **Subject:** Web Systems and Technologies
+
+## Testing Results
+
+The application was tested by the project collaborator.
+
+The following features were successfully tested:
+
+- Movie search
+- Movie details
+- Sorting movies
+- Pagination
+- Adding movies to Favorites
+- Removing movies from Favorites
+- Favorites persistence using localStorage
+- Error handling for invalid movie searches
+
+All tested features worked as expected.
